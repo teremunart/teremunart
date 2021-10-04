@@ -15,8 +15,8 @@
 - Visual Studio
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cathteremun&show_icons=true&theme=gruvbox&.svg)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cathteremun&show_icons=true&theme=gruvbox&.svg)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cathteremun&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cathteremun&show_icons=true)
 
 [twitter]: https://twitter.com/teremunart
 [instagram]: https://instagram.com/teremunart
