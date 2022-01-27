@@ -21,4 +21,4 @@
 
 [twitter]: https://twitter.com/teremunart
 [instagram]: https://instagram.com/teremunart
-[discord]: https://discord.gg/EMrgJbsnfR
+[discord]: https://discord.gg/RfX2UYwQNd
