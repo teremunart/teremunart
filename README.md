@@ -1,4 +1,4 @@
-### Hello, I am Useless!
+### Hello, I am Teremun!
 
 ### Contact me:
 [<img align="left" alt="TeremunArt | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.16.0/icons/discord.svg" />][discord]
