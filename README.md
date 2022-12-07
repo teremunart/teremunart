@@ -7,12 +7,10 @@
 <br/>
 
 ### Languages, APIs and Tools:
-- PHP
+- JAVA
 - C#
-- PocketMine-MP
 - Unity 3D
 - JetBrains
-- Visual Studio
 <br/>
 
 
