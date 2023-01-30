@@ -11,6 +11,7 @@
 - C#
 - Unity 3D
 - JetBrains
+- Visual Studio
 <br/>
 
 
@@ -19,4 +20,4 @@
 
 [twitter]: https://twitter.com/teremunart
 [instagram]: https://instagram.com/teremunart
-[discord]: https://discord.gg/RfX2UYwQNd
+[discord]: https://discord.gg/5h3kukSdU9
