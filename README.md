@@ -1,5 +1,7 @@
 ### Hello, I am Teremun!
 
+My life is currently really busy, you won't notice any difference since I do not really have any active repositories.
+
 ### Contact me:
 [<img align="left" alt="TeremunArt | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.16.0/icons/discord.svg" />][discord]
 [<img align="left" alt="TeremunArt | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.16.0/icons/twitter.svg" />][twitter]
