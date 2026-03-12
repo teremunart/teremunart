@@ -8,12 +8,11 @@ My life is currently really busy, you won't notice any difference since I do not
 [<img align="left" alt="TeremunArt | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.16.0/icons/instagram.svg" />][instagram]
 <br/>
 
-### Languages, APIs and Tools:
-- JAVA
-- C#
-- Unity 3D
-- JetBrains
-- Visual Studio
+### Languages, APIs and Tools I like:
+- Java, C#, JavaScript
+- React, ASP.NET
+- Rider, WebStorm, Intellij
+- JDA
 <br/>
 
 
